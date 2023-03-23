@@ -212,9 +212,7 @@ const Documentation = (props: DocumentationProps = { backgroundColor: '#FFF' }) 
             <Accordion.Body>
               <p>
                 <Trans>
-                  Nouns are generated randomly based Ethereum block hashes. There are no 'if'
-                  statements or other rules governing Noun trait scarcity, which makes all Nouns
-                  equally rare. As of this writing, Nouns are made up of:
+                  Each Noun is made up of 5 traits, which are generated randomly based on Ethereum block hashes. There are no 'if' statements or other rules governing Noun trait scarcity, which makes all Nouns equally rare. As of this writing, Nouns are made up of:
                 </Trans>
               </p>
               <ul>
